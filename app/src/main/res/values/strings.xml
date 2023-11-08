@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Fauna Sulteng</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="fauna_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Anoa Dataran Rendah (Bubalus depressicornis)</item>
+        <item>Anoa pegunungan (Bubalus quarlesi)</item>
+        <item>Kera Hitam Sulawesi (Macaca nigra)</item>
+        <item>Burung Gagak Banggai (Corvus unicolor)</item>
+        <item>Banggai Cardinal</item>
+        <item>Maleo (Macrocephalon maleo)</item>
+        <item>Babirusa (Babyrousa babyrussa)</item>
+        <item>Tarsius (Tarsius tarsier)</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Sering disebut sebagai Kerbau kecil, karena Anoa memang mirip kerbau,
+            tetapi pendek serta lebih kecil ukurannya, kira-kira sebesar kambing.
+            Spesies bernama latin Bubalus depressicornis ini disebut sebagai Lowland Anoa,
+            Anoa de Ilanura, atau Anoa des Plaines. Anoa yang menjadi fauna identitas provinsi
+            Sulawesi tenggara ini lebih sulit ditemukan dibandingkan anoa pegunungan.</item>
+        <item>Anoa pegunungan mempunyai ukuran tubuh yang lebih ramping dibandingkan anoa datarn rendah.
+            Panjang tubuhnya sekitar 122-153 cm dengan tinggi sekitar 75 cm.
+            Panjang tanduk anoa pegunungan sekitar 27 cm dengan berat tubuh dewasa sekitar 150 kg.
+            Anoa pegunungan berusia antara 20-25 tahun yang matang secara seksual saat berusia 2-3 tahun. </item>
+        <item>Merupakan jenis primata yang mulai langka dan terancam kepunahan.
+            Kera Hitam Sulawesi yang dalam bahasa latin disebut Macaca nigra merupakan satwa endemik Sulawesi Utara.
+            Kera Hitam Sulawesi selain mempunyai bulu yang berwarna hitam juga mempunyai ciri yang unik dengan jambul
+            di atas kepalanya. Kera yang oleh masyarakat setempat disebut Yaki ini semakin hari semakin langka dan terancam punah.
+            Bahkan oleh IUCN Redlist digolongkan dalam status konservasi Critically Endangered (Krisis).</item>
+        <item>Burung Gagak Banggai Sulawesi hewan yang dianggap punah 100 tahun lamanya masih hidup di habitat aslinya!
+            Sayangnya sekarang jadi spesies langka dan diambang kepunahan. Mungkin kalo dicari, burung Dodo asli Australia
+            mungkin masih ada yang hidup ya di suatu pulau nan jauh.</item>
+        <item>Bentuknya mirip capung. Ikan Banggai Cardinal (Pterapogon Kauderni) hanya ditemukan di perairan Kepulauan Banggai,
+            Sulawesi Tengah (endemik).</item>
+        <item>Burung ini memiliki keunikan dalam hal perkembangbiakannya. Tidak seperti burung lain yang membuat sarang dan mengerami telurnya,
+            maleo meletakan telurnya dalam lubang pasir di dekat pantai, lalu telur dibiarkan menetas dengan sendirinya.  Meskipun memiliki sayap
+            dengan bulu yang cukup panjang, namun lebih senang jalan kaki dari pada terbang. Biasanya yang dewasa sering diketemukan berpasangan
+            ditempat terbuka dan berpasir panas. Ketika menggali lubang untuk bertelur, penggalian dilakukan secara bergantian antara maleo jantan
+            dan maleo betina. Saat maleo betina menggali lubang, maleo jantan mengawasi sekelilingnya, demikian sebaliknya.</item>
+        <item>Babirusa banyak ditemukan hidup di Pulau Sulawesi, misalnya di Pulau Togean, Pulau Sula, Pulau Malenge, dan lain sebagainya.
+            Habitat dari hewan herbivora ini adalah daerah hutan hujan tropis. Bentuk fisik tubuhnya hampir mirip dengan babi tapi ukurannya
+            lebih kecil dengan taring panjang yang menembus moncongnya.</item>
+        <item>Tarsius merupakan hewan nokturnal yang aktif berburu mangsa di malam hari, seperti jangkrik, reptil kecil, kelelawar, hingga burung kecil.
+            Tarsius termasuk dalam daftar primata dunia yang terancam punah karena banyak yang ingin menjadikan tarsius sebagai hewan peliharaan.
+            Uniknya sebenarnya tarsius tak suka disentuh manusia sehingga hewan ini bisa menyakiti diri sendiri jika hewan ini dipaksa berinteraksi dengan manusia.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/anoa_dataran_rendah</item>
+        <item>@drawable/anoa_pegunungan</item>
+        <item>@drawable/monyet_hitam_sulawesi</item>
+        <item>@drawable/burung_gagak_banggai</item>
+        <item>@drawable/banggai_kardinal</item>
+        <item>@drawable/maleo</item>
+        <item>@drawable/babirusa</item>
+        <item>@drawable/tarsius</item>
+    </integer-array>
+</resources>
